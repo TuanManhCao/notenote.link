@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7d259c4878b14a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "65c0b46925c58187",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian integration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82f19fb00ede3837",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa719e1cef3c84a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "941437cd5f69ae8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a504ffe62f60a724",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3b55ec15f7a5ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "32852318020f9244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d682d78c9217164",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65c0b46925c58187",
+  "lastOpenFiles": [
+    "Obsidian integration.md",
+    "Obsidian integration copy.md",
+    "How to use the special features.md"
+  ]
+}
